@@ -1,4 +1,1 @@
-document.write(`
-<link href="https://miguelmasterrd.github.io/modal-ct/style.css" rel="stylesheet"/>
-<script src='https://miguelmasterrd.github.io/modal-ct/cont.js'/></script>
-`)
+
